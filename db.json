@@ -1,5 +1,4 @@
 {
-    "status": "0",
     "data": {
         "count": 3,
         "rows": [
@@ -49,6 +48,5 @@
                 "min_pdan_unit": null
             }
         ]
-    },
-    "msg": "Sukses"
+    }
 }
