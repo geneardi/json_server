@@ -1,0 +1,54 @@
+{
+    "status": "0",
+    "data": {
+        "count": 3,
+        "rows": [
+            {
+                "id": "1-1-5b617a726a5a0",
+                "unit": "Buah",
+                "sub_category": null,
+                "category": "Makanan",
+                "name": "Cilok Jawara1",
+                "price": "10000",
+                "description": "enak loooh",
+                "image": null,
+                "status": null,
+                "min_preorder_amt": null,
+                "min_preorder_unit": null,
+                "min_pdan_amt": null,
+                "min_pdan_unit": null
+            },
+            {
+                "id": "1-5b617b5f217c3",
+                "unit": "Buah",
+                "sub_category": null,
+                "category": "Minuman",
+                "name": "Cilok Jawara2",
+                "price": "10000",
+                "description": "enak loooh",
+                "image": null,
+                "status": null,
+                "min_preorder_amt": null,
+                "min_preorder_unit": null,
+                "min_pdan_amt": null,
+                "min_pdan_unit": null
+            },
+            {
+                "id": "5b61755084702",
+                "unit": "Buah",
+                "sub_category": "Cemilan",
+                "category": "Makanan",
+                "name": "Cilok Jawara3",
+                "price": "10000",
+                "description": "enak loooh",
+                "image": null,
+                "status": null,
+                "min_preorder_amt": null,
+                "min_preorder_unit": null,
+                "min_pdan_amt": null,
+                "min_pdan_unit": null
+            }
+        ]
+    },
+    "msg": "Sukses"
+}
